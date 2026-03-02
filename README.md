@@ -64,7 +64,7 @@ Defects are documented with:
  File Location:
 
 ```
-/ManualTesting/BugReport.xlsx
+C:\Users\SAI MAHESH\Desktop\manualTesting
 ```
 
 ---
