@@ -46,7 +46,7 @@ Test cases are designed with:
 File Location:
 
 ```
-/ManualTesting/TestCases.xlsx
+C:\Users\SAI MAHESH\Desktop\manualTesting
 ```
 
 ---
